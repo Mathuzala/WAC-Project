@@ -14,7 +14,7 @@ Once selected you will be able to select a code and enter a rate, modifying the 
 ![image](https://github.com/Mattsda/WAC-Project/assets/44985594/404f3f85-16f7-4110-905a-2a263f072fcf)
 
 Once a loan product code is selected you can then enter the new rate in the first cell along with the Points Category Code below. 
-This will modify all the loans with the specific loan product code chosen that have the accompany's points category code - and you must enter a category code.
-Select the 'Calculate WAC' button to generate the new Weighted Average Coupon rate of all the loans in the loan list that will display in the bottom of the screen. 
+*This will modify all the loans with the specific loan product code chosen that have the accompany's points category code - and you must enter a category code.
+*Select the 'Calculate WAC' button to generate the new Weighted Average Coupon rate of all the loans in the loan list that will display in the bottom of the screen. 
 
 ![image](https://github.com/Mattsda/WAC-Project/assets/44985594/98ffa43b-ef1a-44cb-aaf3-eb5ff569b55a)
